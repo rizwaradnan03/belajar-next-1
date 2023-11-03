@@ -1,0 +1,1 @@
+File /src/pages/index.tsx merupakan component utama dalam codingan next js yang merpresentasikan main.jsx pada react
